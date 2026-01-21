@@ -17,7 +17,7 @@ print(student.values())
 print(student.items())
 
 
-#update methode
+#update method
 newDic={
     "name":"Kumar"
 }
